@@ -1,0 +1,1 @@
+pngtopnm /comp/40/bin/images/bitonal/$1.png | ./unblackedges | display -

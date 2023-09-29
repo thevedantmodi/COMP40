@@ -1,0 +1,29 @@
+Josh Field (jfield02) and Vedant Modi (vmodi01)
+Assignment: iii
+
+Date Due: 28 Sep 2023
+
+Acknowledgements:
+
+The following individuals shall now be recognized for greatness in helping us:
+    - Randy
+    - Max
+    - Teddy
+    - Valerie
+    - and plenty more!
+
+Completion: 
+We believe we have fully implemented UArray2, Bit2, sudoku, and unblackedges!
+
+Files submitted:
+    - uarray2.h
+    - uarray2.c
+    - bit2.h
+    - bit2.c
+    - sudoku.c
+    - unblackedges.c
+    - Makefile
+    - README 
+
+Hours: 
+    2^4 + 8 hours (24 hours)
