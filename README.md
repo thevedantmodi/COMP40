@@ -10,3 +10,5 @@ These assignments are
 - `um` (Universal Machine)
 - `profiling`
 - `asmcoding`
+
+Unfortunately, to preserve the course integrity policies, I am not able to share the code publicly. But if you would like to see any of my implementations to these projects, feel free to email me at vedant[at]vedantmodi[dot]com.
