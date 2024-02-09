@@ -1,1 +1,0 @@
-mv uarray2.h uarray2.c bit2.h bit2.c sudoku.c unblackedges.c Makefile README submit/
